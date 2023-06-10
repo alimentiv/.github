@@ -1,3 +1,11 @@
+---
+name:
+about:
+title: ''
+labels: ''
+assignees: ''
+---
+
 # ALIMENTIV Issue Template
 
 ## Context
