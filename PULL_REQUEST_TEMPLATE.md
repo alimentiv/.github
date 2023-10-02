@@ -1,4 +1,4 @@
-# ALIMENTIV Pull Request Template
+# ALIMENTIV Pull Request
 
 ## Description
 
